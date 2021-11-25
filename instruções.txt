@@ -1,0 +1,9 @@
+- codigo front-end feito com html, css e bootstrap
+- back-end feito usando php
+
+
+         INSTRUÇÕES
+- startar apache e mysql
+- subir banco pro phpmyadmin
+- colocar projeto na pasta xampp/htdocs
+- rodar projeto
